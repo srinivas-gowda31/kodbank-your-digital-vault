@@ -1,0 +1,4 @@
+project_id = "bbyqgykunfchyhqrsnzs"
+
+[functions.bank-bro-chat]
+verify_jwt = false
